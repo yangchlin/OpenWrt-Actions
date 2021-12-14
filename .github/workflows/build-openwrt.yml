@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
     inputs:
       ssh:
-        description: 'SSH 连接到 Actions'
+        description: '是否通过 SSH 连接到 Actions'
         required: false
         default: 'false'
 
