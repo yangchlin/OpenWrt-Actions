@@ -9,7 +9,7 @@
 # 描述: 源码更新检查
 #
 
-name: 更新检查
+name: 源码更新检查
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
