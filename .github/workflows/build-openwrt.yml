@@ -1,21 +1,21 @@
 #
-# Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
+# 版权所有(c) 2019-2021 P3TERX <https://p3terx.com>
 #
-# This is free software, licensed under the MIT License.
-# See /LICENSE for more information.
+# 这是在麻省理工学院许可证下授权的免费软件。
+# 有关详细信息，请参阅 /LICENSE。
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# Description: Build OpenWrt using GitHub Actions
+# 描述: 使用GitHub Actions构建OpenWrt
 #
 
-name: Build OpenWrt
+name: 编译 Openwrt
 
 on:
   repository_dispatch:
   workflow_dispatch:
     inputs:
       ssh:
-        description: 'SSH connection to Actions'
+        description: 'SSH 连接到 Actions'
         required: false
         default: 'false'
 
