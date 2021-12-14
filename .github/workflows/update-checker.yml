@@ -1,12 +1,12 @@
 #
 # Copyright (c) 2019-2021 P3TERX <https://p3terx.com>
 #
-# This is free software, licensed under the MIT License.
-# See /LICENSE for more information.
+# 这是在麻省理工学院许可证下授权的免费软件。
+# 有关详细信息，请参阅 /LICENSE。
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# File: .github/workflows/update-checker.yml
-# Description: Source code update checker
+# 文件: .github/workflows/update-checker.yml
+# 描述: 源码更新检查
 #
 
 name: Update Checker
