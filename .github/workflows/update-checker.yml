@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2019-2021 P3TERX <https://p3terx.com>
+# 版权所有(c) 2019-2021 P3TERX <https://p3terx.com>
 #
 # 这是在麻省理工学院许可证下授权的免费软件。
 # 有关详细信息，请参阅 /LICENSE。
@@ -9,7 +9,7 @@
 # 描述: 源码更新检查
 #
 
-name: Update Checker
+name: 更新检查
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
