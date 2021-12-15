@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
+# 版权所有(c) 2019-2020 P3TERX <https://p3terx.com>
 #
 # 这是在麻省理工学院许可证下授权的免费软件。
 # 有关详细信息，请参阅 /LICENSE。
