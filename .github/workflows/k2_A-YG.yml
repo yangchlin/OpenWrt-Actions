@@ -16,7 +16,7 @@ on:
     inputs:
       ssh:
         description: '是否通过 SSH 连接到 Actions'
-        required: true
+        required: false
         default: 'false'
 
 env:
